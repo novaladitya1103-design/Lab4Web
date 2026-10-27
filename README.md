@@ -93,8 +93,8 @@ Lab4Web/
 *(Catatan: Kamu bisa mengganti atau melampirkan screenshot gambar hasil praktikum kamu di bagian ini)*
 
 * **Tampilan Halaman Utama (Home):**
-![home](https://github.com/user-attachments/assets/...)
+![Tampilan Halaman Utama](Screenshots/1.png)
 * **Tampilan Halaman About:**
-*(Letakkan screenshot about.html di sini)*
+![Tampilan Halaman About](Screenshots/2.png)
 * **Tampilan Halaman Kontak:**
-*(Letakkan screenshot kontak.html di sini)*
+![Tampilan Halaman Kontak](Screenshots/3.png)
